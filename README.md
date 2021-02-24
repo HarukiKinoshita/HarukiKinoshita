@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🏛 Enrolment
+  - University of Tsukuba 🇯🇵 (2018.4 - Current)
+  - University of Saskatchewan 🇨🇦 (2020.9 - Current)
+
+- 🏢 Employment
+  - Onikle (2019.2 - 2019.10)
+
 <!--
 **HarukiKinoshita/HarukiKinoshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
