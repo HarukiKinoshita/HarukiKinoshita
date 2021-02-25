@@ -7,6 +7,10 @@
 🏢 **Employment**
 - Onikle (2019.2 - 2019.10)
 
+🏠 **Places Lived**
+- Sendai (2020-)
+- Tsukuba (2018-2020)
+
 <!--
 **HarukiKinoshita/HarukiKinoshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
