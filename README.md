@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🏛 Enrolment
+🏛 **Enrolment**
 - University of Tsukuba 🇯🇵 (2018.4 - Current)
 - University of Saskatchewan 🇨🇦 (2020.9 - Current)
 
-🏢 Employment
+🏢 **Employment**
 - Onikle (2019.2 - 2019.10)
 
 <!--
