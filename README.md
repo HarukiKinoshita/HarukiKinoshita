@@ -2,7 +2,7 @@
 
 🏛 **Enrolment**
 - University of Tsukuba 🇯🇵 (2018.4 - Current)
-- University of Saskatchewan 🇨🇦 (2020.9 - Current)
+- University of Saskatchewan 🇨🇦 (Full-time Exchange, 2020.9 - 2021.4)
 
 🏢 **Employment**
 - Onikle (2019.2 - 2019.10)
