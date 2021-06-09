@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🏛 **Enrolment**
-- University of Tsukuba 🇯🇵 4 yrs BSc, 2018.4 - Current
-- University of Saskatchewan 🇨🇦 Full-time Exchange, 2020.9 - 2021.4
+- University of Tsukuba 🇯🇵 (2018.4 - Current) 4 yrs BSc
+- University of Saskatchewan 🇨🇦 (2020.9 - 2021.4) Full-time Exchange
 
 🏢 **Employment**
 - Onikle (2019.2 - 2019.10) Web Developer
