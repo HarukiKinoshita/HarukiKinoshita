@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!--
 
 🏛 **Enrolment**
 - University of Tsukuba 🇯🇵 (2018.4 - Current) BSc, 4 Years
@@ -7,7 +8,7 @@
 🏢 **Employment**
 - Onikle (2019.2 - 2019.10) Web Developer
 
-<!--
+
 **HarukiKinoshita/HarukiKinoshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
